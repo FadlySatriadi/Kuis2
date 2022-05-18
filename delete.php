@@ -7,7 +7,7 @@
     if(mysqli_query($connect, $query)) {
         header('Location:homeAdmin.php');
     } else {
-        echo "Data gagal dihapus <br>". 
+        echo "Data gagal dihapus" 
         mysqli_error($connect);
     }
 

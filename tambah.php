@@ -8,7 +8,7 @@
     <nav>
         <div class="wrapper">
             <div class="header">
-                <div class="logo">GRAMEDIA</div>
+                <div class="logo">Vynz Bookstore</div>
             </div>
         </div>
     </nav>
